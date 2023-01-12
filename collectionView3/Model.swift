@@ -6,3 +6,6 @@
 //
 
 import Foundation
+struct Item {
+    var imageName: String
+}
